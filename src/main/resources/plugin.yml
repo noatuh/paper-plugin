@@ -1,0 +1,9 @@
+name: PlayerList
+main: com.nota.playerlist.Plugin
+version: 0.0.1
+api-version: 1.21
+commands:
+  helloworld:
+    description: Prints "Hello World!"
+  whitelistlist:
+    description: Lists all players in the whitelist.
